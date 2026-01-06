@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test files
+test/
+*.test
+
+# User config examples
+.cd-auto-commands.example
+*.example
+
+# Temporary files
+*.tmp
+*.bak
